@@ -1,54 +1,61 @@
-# 👋 Hello, I'm Muhammad Umar Hassan
+# [cite_start]👋 Hello, I'm Muhammad Umar Hassan [cite: 1]
 
-I'm a passionate developer focused on building intelligent tools that bridge the gap between code and design. Currently, I'm developing a web application that transforms natural language into clear and understandable UML diagrams using OpenAI's API, aiming to assist developers and students in visualizing software architecture effortlessly.
+[cite_start]**CTO & Co-founder at Ozone Sync Limited** [cite: 18, 19] | [cite_start]**AI Automation Engineer & Full Stack Developer** [cite: 2, 110]
+
+[cite_start]I am a results-driven developer specializing in architecting scalable web applications and intelligent AI systems[cite: 63, 114]. [cite_start]My expertise bridges the gap between complex machine learning concepts and production-ready cloud infrastructure, allowing me to build everything from autonomous multi-agent pipelines to secure healthcare platforms[cite: 5, 65, 114].
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 **Current Project**: Developing a web app that generates UML diagrams from natural language inputs using OpenAI's API.
-- 🤝 **Looking to Collaborate On**: AI-based developer tools, compiler tooling, systems programming, code analysis, and backend logic optimization projects.
-- 💡 **Looking to Help With**: Backend development, parallel processing, AI integrations (e.g., GPT APIs), and building intuitive tools that bridge code and design.
-- 📚 **Currently Learning**: Prompt engineering, advanced API integration with OpenAI, and enhancing frontend skills using frameworks like Angular and React.
-- ❓ **Ask Me About**:
-  - AI agents (CSP, Minimax, heuristics)
-  - Parallel & distributed computing (Pthreads, OpenCL)
-  - Web systems (REST APIs, React)
-  - Compiler construction and language tooling
-- ⚡ **Fun Fact**: I built Pacman and Tetris from scratch using Assembly and C to understand how games work at the hardware level!
+- [cite_start]🔭 **Current Focus**: Directing AI-driven product strategy and full-stack cloud infrastructure at Ozone Sync Limited[cite: 78, 131]. 
+- [cite_start]🌱 **Currently Building**: **ProxyIQ**, a serverless HIPAA-compliant healthcare supply chain platform [cite: 47, 144][cite_start], and an automated **AI Voice Sales Agent** for dynamic B2B/B2C interactions[cite: 37, 38].
+- [cite_start]🤝 **Looking to Collaborate On**: Enterprise RAG pipelines [cite: 41][cite_start], Multi-Agent Systems (like my Movie Creation workflow) [cite: 39, 40][cite_start], and scalable MERN/AWS cloud infrastructure[cite: 110, 113].
+- [cite_start]💡 **Looking to Help With**: End-to-end AI automation, LLM orchestration (Claude, GPT, OpenRouter), serverless backend development (AWS Lambda, Node.js), and CI/CD pipelines[cite: 9, 12, 13, 118, 119].
+- [cite_start]📚 **Currently Learning**: Advanced MLOps (Kubernetes, MLflow, Airflow) and enhancing Reinforcement Learning models[cite: 67, 104].
+- [cite_start]⚡ **Fun Fact**: I trained a deep neural network racing AI that outperformed the baseline TORCS AI using iterative reward shaping[cite: 51, 53], and I built Pacman and Tetris from scratch using Assembly and C!
 
 ---
 
 ## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/1_1mar_hassan/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadumarhassan476@gmail.com)
+[cite_start][![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://umar-hassan-dev.vercel.app/) [cite: 3]
+[cite_start][![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadumarhassan987@gmail.com) [cite: 3]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/1_1mar_hassan/)
 
 ---
 
 ## 💻 Tech Stack
 
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+**Languages**
+[cite_start]![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) [cite: 106]
+[cite_start]![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [cite: 106]
+[cite_start]![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [cite: 106]
+[cite_start]![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) [cite: 106]
+[cite_start]![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) [cite: 106]
+[cite_start]![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) [cite: 106]
+
+**Frontend & Backend**
+[cite_start]![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [cite: 117]
+[cite_start]![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) [cite: 117]
+[cite_start]![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) [cite: 118]
+[cite_start]![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) [cite: 118]
+[cite_start]![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) [cite: 117]
+
+**AI & Machine Learning**
+[cite_start]![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) [cite: 103]
+[cite_start]![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) [cite: 103]
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Cloud, DevOps & Databases**
+[cite_start]![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) [cite: 119]
+[cite_start]![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) [cite: 119]
+[cite_start]![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) [cite: 119]
+[cite_start]![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) [cite: 120]
+[cite_start]![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) [cite: 120]
+[cite_start]![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) [cite: 108]
 
 ---
 
@@ -67,5 +74,3 @@ I'm a passionate developer focused on building intelligent tools that bridge the
 ---
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Umar1-1assan&icon=0&color=0)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
